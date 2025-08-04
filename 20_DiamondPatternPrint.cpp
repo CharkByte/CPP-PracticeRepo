@@ -1,4 +1,4 @@
-// // C++ Practice. Basics to advanced topics
+// C++ Practice. Basics to advanced topics
 /*
 	Diamond pattern printout program
 
@@ -21,3 +21,4 @@ int main() {
 	return 0;
 
 }
+
