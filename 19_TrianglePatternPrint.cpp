@@ -1,3 +1,4 @@
+// C++ Practice. Basics to advanced topics
 /*
 	Triangle pattern printout  program
 
@@ -15,4 +16,5 @@ int main() {
 	cout << " ***** \n";
 	cout << "*******\n";
 	return 0;
+
 }
