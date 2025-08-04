@@ -1,3 +1,4 @@
+// // C++ Practice. Basics to advanced topics
 /*
 	Diamond pattern printout program
 
@@ -18,4 +19,5 @@ int main() {
 	cout << "  ***   \n";
 	cout << "   *   \n";
 	return 0;
+
 }
