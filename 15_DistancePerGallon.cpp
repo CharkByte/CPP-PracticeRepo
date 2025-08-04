@@ -1,3 +1,4 @@
+// C++ Practice. Basics to advanced topics
 /*
 	Distance per gallon program
 
@@ -17,4 +18,5 @@ int main() {
 		<< miles << " miles.";
 
 	return 0;
+
 }
